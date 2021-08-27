@@ -1,4 +1,4 @@
-# Filtro-colaborativo
+# Proyecto Data Science: Filtro colaborativo
 ACAMICA - Data Science - Filtro colaborativo con datos de Steam
 
 ## Sobre el proyecto
